@@ -14,24 +14,19 @@
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="#-deployment">Deployment</a>
 
-![GitHub stars](https://img.shields.io/github/stars/pheralb/docskit)
-![GitHub issues](https://img.shields.io/github/issues/pheralb/docskit)
-![GitHub license](https://img.shields.io/github/license/pheralb/docskit)
-
 </div>
 
 ## 👋 Introduction
 
-**[docskit](https://docskit.vercel.app/)** is a web app to create simple & beautiful docs using Markdown in your browser.
+A simple web app to create beautiful docs using Markdown in your browser.
 
-## 🌳 Supabase Launch Week 6 Hackathon
-
-**A brief description of how used Supabase**:
+## Supabase Requirements:
 
 - [x] **[Supabase Auth](https://supabase.com/docs/guides/auth/overview)** - auth via GitHub.
 - [x] **[Supabase Database](https://supabase.com/docs/guides/database)** - your docs are saved using an incredible Postgres database.
+- [ ] https://app.supabase.com/project/iixckhfbpurtabkssedl
 
-**Team members**:
+**Original Creator**:
 
 - Pablo Hdez - [Twitter](https://twitter.com/pheralb_).
 
